@@ -120,6 +120,6 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-STOCKS_API_KEY = 'zC992yeEkw5VTye5PFJY'
+STOCKS_API_KEY = 'Enter your api key'
 
-STOCKS_API_URL = 'https://www.quandl.com/api/v3/datasets/EOD/'
+STOCKS_API_URL = 'Enter url'
